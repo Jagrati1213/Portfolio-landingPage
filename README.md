@@ -9,5 +9,4 @@ It was an intern assignment.
 - MD Bootstrap
 - Font Awesome
 ## ##
-****
-*You Can check out the [FrintArt](https://Jagrati1213.github.io/portfolio-landingPage)*
+*You Can check out the [click](https://jagrati1213.github.io/Portfolio-landingPage/)*
